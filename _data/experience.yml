@@ -1,50 +1,66 @@
 # Jobs
-# CTO
-- company: Novuz Inc
-  position: Founder and Lead Engineer
-  duration: January, 2019 &mdash; Present
-  summary: <li> Designed and Developed a golang RestAPI Server which interacts with kubernetes server and spawn deployments, pods, jobs, services</li>
-           <li> Designed and Developed a Form learning system using tensor flow API. The system would identify a user uploaded form correctly</li>
+- company: Oracle Cloud Infrastructure, Santa Clara, CA
+  position: Principal Engineer
+  duration: Nov, 2018 &mdash; Present
+  summary: <li> Leading Network Monitoring  team for Cloud  network.</li>
+           <li> Leading Active/passive Monitoring  team for OCI Regions</li>
+           <li> Leading DevOps for Network monitoring Micro-services.</li>
 
 # Lead Engineer
-- company: Juniper Networks(Contrail Systems)
-  position: Senior Staff Software Engineer
-  duration: August, 2012 &mdash; January 2019
-  summary: <li>Next generation SDN controller software, writing common infrastructure to support intent driven provisioning supporting HA clustering.<a href="https://github.com/Juniper/contrail"> Contrail Next-Gen Controller </a></li>
-           <li>Integrated Contrail SDN controller with openstack.</li>
-           <li>Developed Neutron plugin to support contrail<a href="https://github.com/openstack/neutron/commit/1a1561f8eb883e9200248c9c41d3bcc992edac8c"> Contrail Neutron Plugin</a></li> 
-           <li>Developed Heat plugin to support contrail<a href="https://github.com/Juniper/contrail-heat"> Contrail Heat Plugin</a></li> 
-           <li>Developed contrail provisioning using Chef<a href="https://github.com/Juniper/contrail-chef"> Contrail Chef provisioner</a></li>
-           <li>Open-contrail bringup on Centos.</li> 
-           <li>Worked with customers to integrate contrail SDN controller into their eco-systems.</li>
-  
-# Software Engineer
-- company: Aruba Networks
-  position: Staff Engineer
-  duration: May, 2010  &mdash; July, 2012
-  summary: <li>Designed and Developed of Stacking/Virtualization software for a collection of switches with single unified management access.</li>
-           <li>Designed and Developed dynamic master-election algorithm, stack split-merge, data-path programming, process manager changes for role based process launch.</li>
+- company: ColorTokens, Inc, Santa Clara, CA 
+  position: Principal Engineer
+  duration: December, 2016 &mdash; November 2018
+  summary: <li>Came up with 10 break-through ideas & filed patents to enable ColorTokens solution for micro-segmentation use cases. Details listed towards the end.</li>
+           <li>Architected, Designed & implemented Patented DNS solution which fills gaps in ColorTokens security solution deployment & also provides segmentation and visibility of network.</li>
+           <li>Architected, Designed & implemented “Application-rewiring” which provides smooth migration to ColorTokens security solution for brown field deployment.</li> 
+           <li>Re-Architect ColorTokens current product, separated Control plane & Data plane and Re-designed Data Plane to improve performance from 100MB to ~1G & increased the scale number from 200 to 1500 endpoints on each ColorTokens Gateway. </li> 
+
+# Senior Techlead
+- company: Cisco System, Milpitas, CA
+  position: Senior Tech Lead
+  duration: July 2010  &mdash; December, 2016
+  summary: <li>Led a BGP Nexus Development team for Datacenter deployment</li>
+           <li>Designed and implemented EVPN-VPN(GOLF) Stitching project to extend Vxlan to multiple datacenters.  Designed & implemented EVPN/VXLAN</li>
+           <li>Designed & implemented EVPN/VXLAN</li>
+           <li>Scalability/performance effort for VXLAN/BGP/L2RIB</li>
+           <li>Lead Critical CFDs & fixes critical issues on cross component: Netstack, BFD, RIB </li>
+           <li>Led a team of BGP Development for Cisco IOS Router. I was responsible for the following activities.</li>
+           <li>Created & executed Charter to reduce CFD (Customer found DDTS) for deployed features.</li>
+           <li>Training of New Hires, assigning work assignment, mentoring and bringing them up to speed.</li>
+           <li>BGP Features that I have worked on: </li>
+           <li>AIGP, Legacy RT, BGP SIDR/Security, Diverse Path & PIC, Route Server.</li>
+           <li>BGP Next Generation Update Generation some Enhancement.</li>
+
+# Software Technical Manager
+- company: Alcatel Lucent, IP Division, Mountain View, CA 
+  position: Software Technical Manager
+  duration: March, 2008  &mdash; July, 2010
+  summary: <li>Led a team of QA routing engineers for 7750/7710 Service Router. I was responsible for the following activities.</li>
+           <li>Software /Test/Feature Planning for the release.  </li>
+           <li>Code Reviews, Product Requirement Document (PRD), Customer Documentation Review.</li>
+           <li>Hiring and Training of New Hires, assigning work assignment, mentoring and bringing them up to speed.</li>
+           <li>Involved in White Box, Unit Testing, Functional Testing, Scale Testing, Regression, Scripting, Automation, Negative Testing etc.</li>
+           <li>Few BGP Features that I have worked on personally (I was involved indirectly in various other features as well that are not included in the list)</li>
+           <li>BGP 4 Byte-AS, Aggregate route for VPN, Inter-AS Option-C, BGP-VPLS Load Balancing between CE-PE BGP routes & VPN routes</li>
+           <li>Handling Customer issues </li>
 
 # Software Engineer
-- company: Juniper Networks
-  position: Staff Engineer
-  duration: Jan, 2009  &mdash; April, 2012
-  summary: <li>Supporting the virtual-chassis software for all the switch platforms..</li>
-           <li>Work closely with QA, customer support to resolve customer problems.</li>
+- company: Cisco Systems, Ottawa, Canada
+  position: Senior Software Engineer/Lead
+  duration: April, 2005 &mdash; March, 2008
+  summary: <li>Worked on BGP NSR, MVPN, L3VPN Project for basic, Inter-As & CSC, LDP</li>
+	   <li>Supported customer account team.</li>
 
 # Software Engineer
-- company: Tropos Networks
+- company: Riverstone Networks, Santa Clara, CA 
+  position: Senior Software Engineer & lead
+  duration: December, 2003 &mdash; April, 2005
+  summary: <li>Worked on BGP feature: Route Reflector, Third party next-hop, Dampening, Aggregation, Route Selection</li>
+
+# Software Engineer
+- company: Corona Networks/Corona Networks/Jasmine Networks/Extreme Network/Ramp Network
   position: Software Engineer
-  duration: January, 2007 &mdash; December, 2008
-  summary: <li>Worked on routing, mobility and platform services for the Metro-mesh routers. Developed interface manager, health check and BGP based cross-subnet roaming.</li>
-
-# Software Engineer
-- company: Symbol Technologies
-  position: Software Engineer
-  duration: January, 2004 &mdash; July, 2006
-  summary: <li>Worked on Mobility, Rate scaling, Access Point adoption, management for 802.11 protocols.</li>
-
-# Software Engineer
-- company: Cisco System/Allegro Networks/Future Software
-  position: Software Engineer
-  summary: <li>Developed networking protocol software, BGP/PPP/RADIUS and other networking protocols.</li>
+  summary: <li>Developed Virtual Router, OSPF, BGP and BGP-MPLS for Cororna Platform.</li>
+           <li>Developed RSVP-TE for Jasmine platform.</li>
+           <li>Software Support for OSPF, BGP MIBs of Extreme network product.</li>
+           <li>DiffServ, DHCP, HTTP,SNMP & other protocol for Ramp Product.</li>

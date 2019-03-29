@@ -1,11 +1,20 @@
 # Skills
 # Organizational leadership
 - skill: Languages
-  description: C, Python, Golang
+  description: C,C++,Java, Python
 
 # Communications strategy
 - skill: Cloud Technologies
-  description: Kubernetes, Docker, RestAPI, Distributed Systems, Kafka, etcd, MySQL, Zookeeper
+  description: Kubernetes, Docker, RestAPI, Distributed Systems, Kafka, etcd, MySQL, Zookeeper,Big data framework & database: MapReduce, Elasticsearch, Logstash (ELK Stack), InfluxDB,Dashboard Experience: Grafana/Kibana
+
+
+# Digital content development and creation
+- skill: Tools
+  description: Ansible, Chef, Vagrant
+
+# Networking Protocol Experience
+- skill: Protocols
+  description: Industry expert in architecting, designing, implementation & validation of various networking protocols/technology e.g. TCP/IP, EVPN/Vxlan, BGP, OSPF, L3VPN, L2VPN, VPLS, MPLS, LDP, RSVP-TE, Virtual Router, QOS/DiffServ, NAT, Firewall, Iptables, IPSEC, DHCP, DNS, HTTP, SNMP, CLI for router, SDN & NFV on distributed system
 
 # Digital content development and creation
 - skill: Tools
