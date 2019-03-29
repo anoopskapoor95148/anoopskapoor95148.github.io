@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Praneet Bachheti"
-resume_title:                   "Lead Software Engineer"
+resume_name:                    "Anoop Kapoor"
+resume_title:                   "Principal Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "praneetb@gmail.com"
+resume_contact_email:           "anoopskapoor@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "408-916-8207"
+resume_contact_telephone:       "408-817-0844"
 resume_contact_address:         "San Francisco Bay Area"
 
-resume_header_contact_info:     "praneetb@gmail.com • 408-916-8207 • San Francisco Bay Area"
+resume_header_contact_info:     "anoopskapoor@gmail.com • 408-817-0844 • San Francisco Bay Area"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p><li>Software Engineer with 20+ years’ experience in Kubernetes, SDN, distributed systems,networking/platform infrastructure, cloud native architecture, machine learning, and automation.</li> <li>Ability to lead complex projects from concept to delivery. Goal-oriented self-
+resume_header_intro: "<p><li> Passionate technical leader in building innovative and challenging software solutions for networking and security products.   </li> <li>Experience in SDN, distributed systems,networking/platform infrastructure, cloud native architecture, machine learning, Kubernetes and automation.</li> <li>Ability to lead complex projects from concept to delivery. Goal-oriented self-
 motivated individual with strong problem solving skills.</li> <li>Proficient in Developing new systems, solutions, design and implementations.</li></p>"
 
 # use "yes" to display the email contact button,
@@ -46,11 +46,11 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/praneetb"
+  #resume_github_url:            "https://github.com/praneetb"
   #resume_twitter_url:           "insert your Instagram URL here"
   #resume_dribbble_url:          "insert your Instagram URL here"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/praneetb/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/anoop-kapoor-aba73a15/"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://praneetb.github.io"
   #resume_medium_url:            "insert your Instagram URL here"
